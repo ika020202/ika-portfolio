@@ -1,67 +1,59 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Kairi Miura
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Kairi
+last_name: Miura
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 和歌山大学教育学部 教育学専攻 3年
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Wakayama University
+    url: https://www.wakayama-u.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 教育学やFlutterについて学んでいます。
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 学校教育・社会教育について
+  - Mobileアプリ開発
+  - 読書
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 教育学部 教育学専攻 学士課程　3年
+      institution: 和歌山大学
+      year: 2020-2024
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://twitter.com/urasan_edu
+    label: Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ika020202
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/kairimiura012223/
+  - icon: rss
+    icon_pack: fas
+    link: https://zenn.dev/urasan
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -77,8 +69,16 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+高校卒業後、2社の一般企業で勤務した後に、和歌山大学教育学部に入学。教育について強い関心があり教育学を専攻しています。（主に、人権や社会・教育制度を中心）
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+技術スタックとしては、今はFlutterをメインに触っています。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ただ、技術は実現したい事柄の手段だと思っているので、出来る技術でやる事柄を決めるのではなく、やりたい事柄で技術を決めるべきだと思っています。
+
+
+何事も楽しく！興味を持ったらすぐに行動がモットーです。
+
+
+{{< icon name="github" pack="fab" >}} [私のGithub](https://github.com/ika020202)
+
+{{< icon name="rss" pack="fas" >}}  [今まで書いた技術記事](https://zenn.dev/urasan)
